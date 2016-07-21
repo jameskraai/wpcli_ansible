@@ -1,0 +1,43 @@
+# Commands
+Below is a list of all of the commands this module supports.
+
+### cache
+- add
+    - options
+        - key
+        - value
+        - group
+        - expiration
+- decr
+    - options
+        - key
+        - offset
+        - group
+- delete
+    - options
+        - key
+        - group
+- flush
+- get
+    - options
+        - key
+        - group
+- incr
+    - options
+        - key
+        - offset
+        - group
+- replace
+    - options
+        - key
+        - value
+        - group
+        - expiration
+- set
+    - options
+        - key
+        - value
+        - group
+        - expiration
+- type
+
